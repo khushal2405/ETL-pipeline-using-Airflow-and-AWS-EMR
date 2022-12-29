@@ -18,6 +18,8 @@ Here, we built an ETL pipeline using airflow in order to load the required data 
 Then we scheduled the Dag in order to run the script into the EMR cluster by adding job flow steps using boto3 library.
 So here we scuccessfully incorporated AWS EMR into the pipeline to run the Spark job on a cluster instead of locally on a machine.
 
+![](https://github.com/khushal2405/ETL-pipeline-using-Airflow-and-AWS-EMR/blob/main/DAG_graph.PNG)
+
 Feel free to check the Dag script!!!
 # for more details and help please refer to these following links:
 https://github.com/ajupton/big-data-engineering-project
