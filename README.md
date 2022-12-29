@@ -27,3 +27,9 @@ https://github.com/ajupton/big-data-engineering-project
 https://www.startdataengineering.com/post/how-to-submit-spark-jobs-to-emr-cluster-from-airflow/
 
 https://github.com/josephmachado/spark_submit_airflow
+
+# Room for Improvement
+1. Here in this script rather than using hardcoded values, we can use agparser in order to parse parameters and use them while execution.
+2. We could also use step functions in AWS EMR to execute the same project.
+ 
+
