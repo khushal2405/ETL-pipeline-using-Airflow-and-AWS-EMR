@@ -24,6 +24,6 @@ Feel free to check the Dag script!!!
 # for more details and help please refer to these following links:
 https://github.com/ajupton/big-data-engineering-project
 
-https://www.startdataengineering.com/post/how-to-submit-spark-jobs-to-emr-cluster-from-airflow/#commento-login-box-container
+https://www.startdataengineering.com/post/how-to-submit-spark-jobs-to-emr-cluster-from-airflow/
 
 https://github.com/josephmachado/spark_submit_airflow
