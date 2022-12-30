@@ -68,4 +68,4 @@ WHERE i.shipping_limit_date < o.order_delivered_carrier_date
 late_carrier_deliveries.coalesce(1) \
                        .write \
                        .option("header", "true") \
-                       .csv("s3://olist-project/output_data/missed_shipping_limit_orders.csv") # This path is for output folder
+                       .csv("s3a://olist-project/output_data/missed_shipping_limit_orders.csv") # This path is for output folder
