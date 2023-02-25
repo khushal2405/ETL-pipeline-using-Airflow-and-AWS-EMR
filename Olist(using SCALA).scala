@@ -1,4 +1,4 @@
-// Databricks notebook source
+
 import org.apache.spark.sql.SparkSession
 
 
